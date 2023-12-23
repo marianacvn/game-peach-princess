@@ -1,6 +1,6 @@
-# Jogo-princesapeach
+# Game peach princess
 
-Jogo 1.0 da Princesa Peach do Mario Bros, versão inicial, com interações de teclado e mouse.
+Version 1.0 of the Mario Bros. Princess Peach game with keyboard and mouse interactions.
 
 
 
